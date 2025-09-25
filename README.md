@@ -1,1 +1,1 @@
-home.html
+/pages/home.html
